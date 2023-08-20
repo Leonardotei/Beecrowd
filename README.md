@@ -10,7 +10,7 @@ Exercicios feitos no Beecrowd.
 
 | Linguagem | Exercicios |
 |-----------|------------|
-| Java      | 2          |
+| Java      | 3          |
 | C#        |            |
 
 
@@ -20,5 +20,6 @@ Exercicios feitos no Beecrowd.
 
 - [x] 1000 - Hello World!
 - [x] 1001 - Extremamente Básico
+- [x] 1002 - Área do Círculo
 
 
