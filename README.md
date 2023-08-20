@@ -16,5 +16,6 @@ Exercicios feitos no Beecrowd.
 
 ### Exercicios
 - [x] 1000 - Hello World!
+- [x] 1001 - Extremamente Básico
 
 
