@@ -6,7 +6,7 @@ Exercicios feitos no **[Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/7
 
 | Linguagem | Exercicios |
 |-----------|------------|
-| Java      |3           |
+| Java      |6           |
 | C#        |3           |
 
 
@@ -18,6 +18,18 @@ Exercicios feitos no **[Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/7
 - [x] 1000 - Hello World!
 - [x] 1001 - Extremamente Básico
 - [x] 1002 - Área do Círculo
+- [x] 1003 - Soma Simples
+- [x] 1004 - Produto Simples
+- [x] 1005 - Média 1
+- [ ] 1006 -
+- [ ] 1007 -
+- [ ] 1008 -
+- [ ] 1010 -
+- [ ] 1011 -
+- [ ] 1012 -
+- [ ] 1013 -
+- [ ] 1014 -
+- [ ] 1015 - 
 
 </details>
 
