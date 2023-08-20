@@ -1,15 +1,13 @@
 # Beecrowd
-Exercicios feitos no [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/731032).
+Exercicios feitos no **[Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/731032)**.
 
 <img src="/bee.jpg" width="300px"/>
-
 
 
 | Linguagem | Exercicios |
 |-----------|------------|
 | Java      |3           |
 | C#        |3           |
-
 
 
 # Exercicios
