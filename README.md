@@ -6,7 +6,7 @@ Exercicios feitos no **[Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/7
 
 | Linguagem | Exercicios |
 |-----------|------------|
-| Java      |9           |
+| Java      |10          |
 | C#        |7           |
 
 
@@ -24,6 +24,7 @@ Exercicios feitos no **[Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/7
 - [x] 1006 - Média 2
 - [x] 1007 - Diferença
 - [x] 1008 - Salário
+- [x] 1009 - Salário com Bônus
 - [ ] 1010 -
 - [ ] 1011 -
 - [ ] 1012 -
