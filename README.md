@@ -52,6 +52,7 @@ Exercicios feitos no **[Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/7
 - [x] 1010 - Cálculo Simples
 - [x] 1011 - Esfera
 - [x] 1012 - Área
+- [x] 1013 - O Maior
 </details>
 
 
