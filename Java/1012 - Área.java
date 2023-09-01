@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class Main{
     public static void main(String[] args){
         double a, b, c;
-        double triangulo, circulo, trapezio, quadrado, retangulo;
         double areaTriangulo, areaCirculo, areaTrapezio, areaQuadrado, areaRetangulo;
     
         Scanner valor = new Scanner(System.in);
