@@ -1,9 +1,9 @@
 # Beecrowd
 Exercicios feitos no **[Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/731032)**.
 
-<img src="/bee.jpg" width="300px"/>
+<img src="/bee.jpg" width="200px"/>
 
-
+<!--
 | Linguagem | Exercicios |
 |-----------|------------|
 | Java      |13          |
@@ -55,6 +55,6 @@ Exercicios feitos no **[Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/7
 - [x] 1013 - O Maior
 </details>
 
-
+-->
 
 
